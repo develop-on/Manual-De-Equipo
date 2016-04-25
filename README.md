@@ -10,7 +10,7 @@ Repositorios
 
 
 
-> **Tipo re repos:**
+> **Tipo de repos:**
 
 > - WEB. (Pagina web)
 > - APP. (Aplicacion para smartphones y tablets)
